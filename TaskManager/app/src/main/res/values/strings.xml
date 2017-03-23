@@ -4,7 +4,7 @@
     <string name="new_task">Novi zadatak</string>
     <string name="task_name">Ime zadatka</string>
     <string name="task_desc">Opis zadatka</string>
-    <string name="check_box">Podseti me 15 minuta pre isteka</string>
+    <string name="check_box">Probni commit</string>
     <string name="add">Dodaj</string>
     <string name="cancel">Otkazi</string>
 </resources>
